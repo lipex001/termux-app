@@ -1,0 +1,1 @@
+termux-change-repo && pkg upgrade -y && pkg install -y ffmpeg nodejs-lts wget tesseract git && termux-setup-storage
